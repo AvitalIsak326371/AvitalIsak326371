@@ -1,6 +1,6 @@
 
 ## 👋 Hello, I'm Avital Isakov 🔍  
-💻 **Full Stack Developer**
+💻 **Software Developer**
 
 📞 Phone: +972 55-673-7090  
 📧 Email: [avital0556737@gmail.com](mailto:avital0556737@gmail.com)  
