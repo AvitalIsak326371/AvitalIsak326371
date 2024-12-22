@@ -33,9 +33,12 @@ As part of the DiversiTech practicum, I developed a project for managing an educ
 
 During the practicum, I created the following services:  
 1. **Attendance Service** - Managing real-time student attendance.  
+   👉👉👉 [Available here](./Attendance-Service)  
 2. **Enrollment Service** - Handling student registration and enrollment in the system.  
+   👉👉👉 [Available here](./Enrollment-Service)  
 
-Additionally, I prepared a presentation summarizing all the tasks and milestones I achieved throughout the practicum.  
+Additionally, I prepared a presentation summarizing all the tasks and milestones I achieved throughout the practicum:  
+👉👉👉 [Practicum Summary Presentation](./Practicum-Summary-Presentation)  
 
 The project was developed using **Agile methodology**, deployed on **Render**, and utilized **Apache Kafka** for seamless service communication.  
 
